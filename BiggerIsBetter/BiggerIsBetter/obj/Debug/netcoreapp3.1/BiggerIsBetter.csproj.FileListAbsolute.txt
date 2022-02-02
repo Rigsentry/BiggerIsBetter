@@ -1,0 +1,14 @@
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\bin\Debug\netcoreapp3.1\BiggerIsBetter.exe
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\bin\Debug\netcoreapp3.1\BiggerIsBetter.deps.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\bin\Debug\netcoreapp3.1\BiggerIsBetter.runtimeconfig.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\bin\Debug\netcoreapp3.1\BiggerIsBetter.runtimeconfig.dev.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\bin\Debug\netcoreapp3.1\BiggerIsBetter.dll
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\bin\Debug\netcoreapp3.1\BiggerIsBetter.pdb
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\obj\Debug\netcoreapp3.1\BiggerIsBetter.csproj.AssemblyReference.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\obj\Debug\netcoreapp3.1\BiggerIsBetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\obj\Debug\netcoreapp3.1\BiggerIsBetter.AssemblyInfoInputs.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\obj\Debug\netcoreapp3.1\BiggerIsBetter.AssemblyInfo.cs
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\obj\Debug\netcoreapp3.1\BiggerIsBetter.csproj.CoreCompileInputs.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\obj\Debug\netcoreapp3.1\BiggerIsBetter.dll
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\obj\Debug\netcoreapp3.1\BiggerIsBetter.pdb
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\obj\Debug\netcoreapp3.1\BiggerIsBetter.genruntimeconfig.cache
