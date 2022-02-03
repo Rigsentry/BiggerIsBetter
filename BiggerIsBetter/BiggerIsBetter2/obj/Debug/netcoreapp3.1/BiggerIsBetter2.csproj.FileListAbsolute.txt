@@ -1,0 +1,14 @@
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter2\bin\Debug\netcoreapp3.1\BiggerIsBetter2.exe
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter2\bin\Debug\netcoreapp3.1\BiggerIsBetter2.deps.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter2\bin\Debug\netcoreapp3.1\BiggerIsBetter2.runtimeconfig.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter2\bin\Debug\netcoreapp3.1\BiggerIsBetter2.runtimeconfig.dev.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter2\bin\Debug\netcoreapp3.1\BiggerIsBetter2.dll
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter2\bin\Debug\netcoreapp3.1\BiggerIsBetter2.pdb
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter2\obj\Debug\netcoreapp3.1\BiggerIsBetter2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter2\obj\Debug\netcoreapp3.1\BiggerIsBetter2.AssemblyInfoInputs.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter2\obj\Debug\netcoreapp3.1\BiggerIsBetter2.AssemblyInfo.cs
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter2\obj\Debug\netcoreapp3.1\BiggerIsBetter2.csproj.CoreCompileInputs.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter2\obj\Debug\netcoreapp3.1\BiggerIsBetter2.dll
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter2\obj\Debug\netcoreapp3.1\BiggerIsBetter2.pdb
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter2\obj\Debug\netcoreapp3.1\BiggerIsBetter2.genruntimeconfig.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter2\obj\Debug\netcoreapp3.1\BiggerIsBetter2.csproj.AssemblyReference.cache

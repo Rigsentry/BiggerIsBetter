@@ -29,6 +29,7 @@ namespace BiggerIsBetter
             var word9 = "abdc";
             var word10 = "abcd";
             var word11 = "fedcbabcd";
+            //var word12 = "hfjsdhfjhgajhgjuadhfgkjadhgakjg";
 
             Console.WriteLine("Example #2:");
             Console.WriteLine(word6 + " - " + NextWord(word6));
@@ -37,6 +38,7 @@ namespace BiggerIsBetter
             Console.WriteLine(word9 + " - " + NextWord(word9));
             Console.WriteLine(word10 + " - " + NextWord(word10));
             Console.WriteLine(word11 + " - " + NextWord(word11));
+            //Console.WriteLine(word12 + " - " + NextWord(word12));
             Console.WriteLine();
 
         }

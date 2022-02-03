@@ -4,7 +4,6 @@ C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBett
 C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\bin\Debug\netcoreapp3.1\BiggerIsBetter.runtimeconfig.dev.json
 C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\bin\Debug\netcoreapp3.1\BiggerIsBetter.dll
 C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\bin\Debug\netcoreapp3.1\BiggerIsBetter.pdb
-C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\obj\Debug\netcoreapp3.1\BiggerIsBetter.csproj.AssemblyReference.cache
 C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\obj\Debug\netcoreapp3.1\BiggerIsBetter.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\obj\Debug\netcoreapp3.1\BiggerIsBetter.AssemblyInfoInputs.cache
 C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\obj\Debug\netcoreapp3.1\BiggerIsBetter.AssemblyInfo.cs
@@ -12,3 +11,4 @@ C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBett
 C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\obj\Debug\netcoreapp3.1\BiggerIsBetter.dll
 C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\obj\Debug\netcoreapp3.1\BiggerIsBetter.pdb
 C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\obj\Debug\netcoreapp3.1\BiggerIsBetter.genruntimeconfig.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\BiggerIsBetter\BiggerIsBetter\BiggerIsBetter\obj\Debug\netcoreapp3.1\BiggerIsBetter.csproj.AssemblyReference.cache
